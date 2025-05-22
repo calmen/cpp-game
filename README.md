@@ -2,7 +2,7 @@
 
 A simple 2D platformer game built in C++ using Visual Studio, where the player controls a cute bird character to defeat enemies, gain power-ups, and progress through levels.
 
-![Screenshot](screenshots/gameplay.png)
+
 
 ## 🎮 Gameplay Overview
 
